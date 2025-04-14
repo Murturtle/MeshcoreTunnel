@@ -1,0 +1,23 @@
+{
+  "name": "meshcoretunnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servertest.js",
+  "scripts": {
+    "run": "sudo node servertest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murturtle/MeshcoreTunnel.git"
+  },
+  "author": "Murturtle",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Murturtle/MeshcoreTunnel/issues"
+  },
+  "homepage": "https://github.com/Murturtle/MeshcoreTunnel#readme",
+  "dependencies": {
+    "@liamcottle/meshcore.js": "^1.4.4",
+    "tuntap2": "^0.9.1"
+  }
+}
